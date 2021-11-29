@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TAXI</string>
+    <string name="logo">TODO</string>
+    <string name="Menuicn">☰</string>
+    <string name="Car">Car</string>
+    <string name="ForgotPswrd">Forgot password?</string>
+    <string name="BtnLogIn">Sign In</string>
+    <string name="PasswordImage">PasswordImage</string>
+    <string name="Person">Person</string>
+    <string name="LoginEditText">LoginEditText</string>
+    <string name="PasswordEditText">PasswordEditText</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="sing_up">Sing Up</string>
+</resources>
